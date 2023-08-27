@@ -2,8 +2,8 @@
 
 changing in in taming/data/utils.py
 
-from torch._six import string_class  # Quote this line (deprecated for torch 2.0)
-string_class = str  # add this line
+from torch._six import string_class  (Quote this line (deprecated for torch 2.0))
+string_class = str  (add this line)
 
 # Taming Transformers for High-Resolution Image Synthesis
 ##### CVPR 2021 (Oral)
